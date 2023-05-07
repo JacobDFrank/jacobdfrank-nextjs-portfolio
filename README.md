@@ -1,6 +1,6 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fleerob%2Fleerob.io)
 
-# leerob.io
+# jacobdfrank-nextjs-portfolio
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Database**: [PlanetScale](https://planetscale.com)
@@ -25,8 +25,6 @@ You can learn more about the `app/` directory [here](https://beta.nextjs.org/doc
 This application requires Node.js v16.13+.
 
 ```bash
-git clone https://github.com/leerob/leerob.io.git
-cd leerob.io
 pnpm install
 pnpm run setup # Remove all of my personal information
 pnpm dev
